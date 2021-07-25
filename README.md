@@ -1,1 +1,1 @@
-Selam, Ben Eyyüp Yaşım 13 ve Java, JavaScript öğrenmeye çalışıyorum.
+I'm Eyyüp Gülen! I'm a 13 years old an Node JS developer.

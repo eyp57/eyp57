@@ -7,3 +7,7 @@
 * HTML & CSS %40
 * Java %20
 * JavaScript (Node) %70
+
+## Links
+
+[Discord](https://discord.gg/zrEpUUBX) - [WebSite](https://axyzl.tk)

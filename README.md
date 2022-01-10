@@ -1,6 +1,6 @@
 ## About Me
 
-🎓 Hello! I'm zRooter, and 13 years old an average of JavaScript developer.
+🎓Hello I'm Eyyüp and JavaScript, average of Java beginner of Python and Php developer
 
 ### Other languages
 

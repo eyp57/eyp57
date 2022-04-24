@@ -11,7 +11,7 @@
 
 ## Links
 
-[Discord](https://discord.gg/zrEpUUBX) - [WebSite](https://axyzl.tk) - [Glitch](https://glitch.com/@zRooter) - [NPMJS](https://www.npmjs.com/~eyp57tr)
+[Discord](https://discord.gg/zrEpUUBX) - [WebSite](https://eyyuepguelen.xyz) - [Glitch](https://glitch.com/@zRooter) - [NPMJS](https://www.npmjs.com/~eyp57tr)
 
 ## Github Stats
 </p>

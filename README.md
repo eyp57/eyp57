@@ -1,6 +1,6 @@
 ## About Me
 
-🎓Hello I'm Eyyüp and JavaScript, average of Java beginner of Python and Php developer
+🎓Hello I'm Eyyüp and JavaScript, average of Java beginner of Php developer
 
 ### Other languages
 

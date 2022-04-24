@@ -4,7 +4,7 @@
 
 ### Other languages
 
-* HTML & CSS %60
+* HTML & CSS %30
 * Java %50
 * JavaScript (Node) %70
 * Php %25

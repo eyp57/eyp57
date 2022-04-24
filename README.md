@@ -7,7 +7,6 @@
 * HTML & CSS %60
 * Java %50
 * JavaScript (Node) %70
-* Python %10
 * Php %25
 
 ## Links

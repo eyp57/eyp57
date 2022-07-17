@@ -22,6 +22,6 @@
 </p>
 
 # DevCard
-<center>
-<a href="https://app.daily.dev/zRooter"><img src="https://api.daily.dev/devcards/c6f55b1249854b0ca66606e6d98fe5ef.png?r=7nn" width="400" alt="zRooter's Dev Card"/></a>
-</center>
+<p align="center">
+   <a href="https://app.daily.dev/zRooter"><img src="https://api.daily.dev/devcards/c6f55b1249854b0ca66606e6d98fe5ef.png?r=7nn" width="400" alt="zRooter's Dev Card"/></a>
+</p>
